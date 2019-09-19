@@ -21,6 +21,7 @@ It has a 10 bit ADC (which means it can detect 2^10 analog levels)
 ## Part B. RGB LED
 
 **How might you use this with only the parts in your kit? Show us your solution.**
+One solution to use the RGB would be to display different colors during different states in compact scenarios
 
 ## Part C. Voltage Varying Sensors 
  

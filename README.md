@@ -29,7 +29,7 @@ One solution to use the RGB would be to display different colors during differen
 
 **a. What voltage values do you see from your force sensor?**
 
-The values range between 0-1006 when not pressed and pressed hard
+The values range between 0-1006 when not pressed and pressed hard (had a resistance value of 20K ohms)
 
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
 
@@ -37,7 +37,7 @@ The voltage drop is linear. The more force applied, the less resistance, providi
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
-You can use an arduino Map function that maps the values of 0-1000 to 0-255
+You can use an arduino Map function that maps the values of 0-1000 to 50-255 (50 is about where the LED is almost able to light up)
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 

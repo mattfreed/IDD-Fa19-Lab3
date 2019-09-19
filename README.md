@@ -29,7 +29,11 @@ One solution to use the RGB would be to display different colors during differen
 
 **a. What voltage values do you see from your force sensor?**
 
+The values range between 0-1006 when not pressed and pressed hard
+
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
+
+The voltage drop is linear. The more force applied, the less resistance, providing more signal power to the analog input pin.
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 

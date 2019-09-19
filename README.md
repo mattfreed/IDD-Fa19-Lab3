@@ -37,6 +37,8 @@ The voltage drop is linear. The more force applied, the less resistance, providi
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
+You can use an arduino Map function that maps the values of 0-1000 to 0-255
+
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**

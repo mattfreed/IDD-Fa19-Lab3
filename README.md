@@ -85,6 +85,12 @@ It can hold 1024 byte sized data samples since it has 1024 bytes of internal EEP
 
 **d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?**
 
+Each byte on the eeprom can only a value between 0 to 255, so you would have to take the analog value of 0 to 1023 and divide by 4.
+
+IC2 devices only send one byte at a time
+
+
+
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**

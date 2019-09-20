@@ -1,6 +1,6 @@
 # Data Logger (and using cool sensors!)
 
-*A lab report by MAtt. W. Freed
+A lab report by Matt. W. Freed
 
 ## In The Report
 

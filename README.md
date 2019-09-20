@@ -45,7 +45,7 @@ Flex Sensor:66Kohm (3x 22k Ohm) for a range of 400-750
 
 PhotoResistor: 10K ohm for a range of 400-900
 
-SoftPot: 
+SoftPot: 2 10K ohms in series (1 before power input and one after)
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
 

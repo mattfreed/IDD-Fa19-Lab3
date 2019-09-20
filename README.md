@@ -73,7 +73,11 @@ These sensors have a linear response
 
 **a. Does it matter what actions are assigned to which state? Why?**
 
+It does matter which actions are assigned to each state, since each state represents the next action in sequential order. If they were randomly assigned, they would not be in the right order.
+
 **b. Why is the code here all in the setup() functions and not in the loop() functions?**
+
+They are in setup because we only want the action to happen once, not continually write/clear to the eeprom
 
 **c. How many byte-sized data samples can you store on the Atmega328?**
 

@@ -41,6 +41,12 @@ You can use an arduino Map function that maps the values of 0-1000 to 50-255 (50
 
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
+Flex Sensor:66Kohm (3x 22k Ohm) for a range of 400-750
+
+PhotoResistor:
+
+SoftPot: 
+
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
 
 ### 2. Accelerometer

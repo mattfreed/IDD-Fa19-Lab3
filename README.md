@@ -81,6 +81,8 @@ They are in setup because we only want the action to happen once, not continuall
 
 **c. How many byte-sized data samples can you store on the Atmega328?**
 
+It can hold 1024 byte sized data samples since it has 1024 bytes of internal EEPROM Memory
+
 **d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?**
 
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**

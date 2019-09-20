@@ -43,7 +43,7 @@ You can use an arduino Map function that maps the values of 0-1000 to 50-255 (50
 
 Flex Sensor:66Kohm (3x 22k Ohm) for a range of 400-750
 
-PhotoResistor:
+PhotoResistor: 10K ohm for a range of 400-900
 
 SoftPot: 
 

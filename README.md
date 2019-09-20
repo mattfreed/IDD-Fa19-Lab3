@@ -93,6 +93,8 @@ IC2 devices only send one byte at a time
 
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
 
+We would occupy multiple addresses in the EEPROM and start our write from the end of the last byte stored. This works even for custom data types. The data would then be stored together from byte x to (x+data size)
+
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
 ### 2. Design your logger

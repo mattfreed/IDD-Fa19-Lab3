@@ -49,6 +49,8 @@ SoftPot: 2 10K ohms in series (1 before power input and one after)
 
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
 
+These sensors have a linear response
+
 ### 2. Accelerometer
  
 **a. Include your accelerometer read-out code in your write-up.**

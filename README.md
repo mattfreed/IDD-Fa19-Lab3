@@ -106,6 +106,8 @@ We would occupy multiple addresses in the EEPROM and start our write from the en
  
 **a. Insert here a copy of your final state diagram.**
 
+![StateDiagram](/WalkSensor.png)
+
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**

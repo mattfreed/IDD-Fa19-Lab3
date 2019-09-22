@@ -27,6 +27,9 @@ One solution to use the RGB would be to display different colors during differen
 
 
 ![image](/IMG_2891.png)
+
+
+![image](/IMG_2890.png)
 ## Part C. Voltage Varying Sensors 
  
 ### 1. FSR, Flex Sensor, Photo cell, Softpot

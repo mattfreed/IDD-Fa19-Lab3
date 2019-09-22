@@ -100,6 +100,8 @@ We would occupy multiple addresses in the EEPROM and start our write from the en
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
+[Modified Code Location](https://github.com/mattfreed/IDD-Fa19-Lab3/tree/master/SwitchState2_Final)
+
 ### 2. Design your logger
  
 **a. Insert here a copy of your final state diagram.**

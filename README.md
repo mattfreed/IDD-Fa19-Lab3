@@ -126,3 +126,4 @@ We would occupy multiple addresses in the EEPROM and start our write from the en
 This data logger logs the force of your foot on the floor throughout a stepping motion. It writes and reads to the onboard memory of the arduino.
 
 [Video](https://www.youtube.com/watch?v=yCCUUHGt58k)
+[Code](https://github.com/mattfreed/IDD-Fa19-Lab3/blob/master/lab3Final.ino)

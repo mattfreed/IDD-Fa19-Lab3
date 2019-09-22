@@ -111,3 +111,7 @@ We would occupy multiple addresses in the EEPROM and start our write from the en
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+
+This data logger logs the force of your foot on the floor throughout a stepping motion. It writes and reads to the onboard memory of the arduino.
+
+

@@ -55,7 +55,7 @@ These sensors have a linear response
  
 **a. Include your accelerometer read-out code in your write-up.**
 
-![Code](/accelReadout.ino)
+[Code](/accelReadout.ino)
 
 ### 3. IR Proximity Sensor
   
@@ -69,6 +69,7 @@ These sensors have a linear response
 
 **Take a picture of your screen working insert it here!**
 
+[Code for accel readout on display](/accelReadout_Oled.ino)
 ## Part D. Logging values to the EEPROM and reading them back
  
 ### 1. Reading and writing values to the Arduino EEPROM

@@ -55,6 +55,8 @@ These sensors have a linear response
  
 **a. Include your accelerometer read-out code in your write-up.**
 
+![Code](/accelReadout.ino)
+
 ### 3. IR Proximity Sensor
   
   No Proximity Sensor was supplied

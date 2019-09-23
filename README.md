@@ -8,6 +8,16 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 For this lab, we will be experimenting with a variety of sensors, sending the data to the Arduino serial monitor, writing data to the EEPROM of the Arduino, and then playing the data back.
 
+## Pre Lab
+BeatPad:
+This contains preloaded sample sounds that correspond to buttons on a board. When the buttons are pressed, they access their portion of the memory and play the sound/value that is preloaded.
+![image](/thumbnail_image1.jpg)
+
+Wind tracker:
+This piece hooks onto a curtain next to an open window. It tracks how many times wind enters your room and the duration of each gust.
+![image](/thumbnail_image2.jpg)
+
+
 ## Part A.  Writing to the Serial Monitor
  
 **a. Based on the readings from the serial monitor, what is the range of the analog values being read?**
